@@ -8,5 +8,5 @@
 # initialize Nos with the original arguments
 nos_init "$@"
 
-# insert process to build the app's Boxfile
-# documentation: http://docs.nanobox.io/engines/scripts/boxfile/
+# insert the build process used to prepare code for deployment
+# documentation: http://docs.nanobox.io/engines/scripts/build/
